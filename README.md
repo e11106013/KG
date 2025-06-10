@@ -88,7 +88,10 @@
 
 ## 💬 KG 應用程式
 
-### `7_SPARQL_QA_JSON.ipynb`、`7_sparql_nli_v2.ipynb`
+### `7_SPARQL_QA_JSON.ipynb`、
+
+`7_sparql_nli_v2.ipynb`
+[![影片標題](https://img.youtube.com/vi/JOf4mG4b7aY/0.jpg)](https://www.youtube.com/watch?v=JOf4mG4b7aY)
 
 - **requests**：支援 HTTP 請求（GET / POST）。
 - **string.Template**：建立模板字串並以變數格式化內容。
