@@ -17,12 +17,18 @@
 - **json**：同上。
 - **os**：同上。
 
+- 上述程式執行影片
+- [![影片標題](https://img.youtube.com/vi/8AjIgCkaq3g/0.jpg)](https://www.youtube.com/watch?v=8AjIgCkaq3g)
+
 ### `2_get_metadata_v4.ipynb`
 程式功能主要處理文本中的metadat詮釋資料成為JSON格式，使用以下套件程式:
 - **json**：處理 JSON 檔案的讀取與解析。
 - **pandas**：將處理後的資料轉為 DataFrame，並可儲存為 CSV。
 - **os**：處理檔案與目錄操作。
 - **re**：透過正則表達式處理與格式化欄位內容。
+
+- 上述程式執行影片
+- [![影片標題](https://img.youtube.com/vi/FvUpK4WQx9o/0.jpg)](https://www.youtube.com/watch?v=FvUpK4WQx9o)
 
 ---
 
@@ -38,9 +44,15 @@
 - **os**：處理環境變數與檔案操作。
 - **shutil**：檔案搬移用途。
 
+- 上述程式執行影片
+- [![影片標題](https://img.youtube.com/vi/l0cxE4vyG6M/0.jpg)](https://www.youtube.com/watch?v=l0cxE4vyG6M)
+
 ### `3_resolution_NER_llama_v8.ipynb`
 程式功能是使用大語言模型處理文本的GCR任務，使用以下套件程式:
 - 同上，並額外提供 **廣義指稱解決（GCR）** 功能。
+
+- 上述程式執行影片
+- [![影片標題](https://img.youtube.com/vi/i5Mibz3iuCE/0.jpg)](https://www.youtube.com/watch?v=i5Mibz3iuCE)
 
 ---
 
