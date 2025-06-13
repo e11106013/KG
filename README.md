@@ -86,7 +86,7 @@
 
 ## 📄 知識圖譜管理模組
 
-### `6_RDF_event_v6.ipynb`
+### `6_RDF_meta_event.ipynb`
 程式功能主要是收集完整文本處理JSON資訊轉換成為RDF格式，使用以下套件程式:
 - **os**：處理檔案與目錄操作。
 - **json**：解析 JSON 格式資料。
@@ -95,9 +95,8 @@
   - `Graph`, `URIRef`, `Literal`, `RDF`, `Namespace`, `BNode`
   - 命名空間：`XSD`, `RDFS`, `OWL`
 
-### `6_RDF_meta_v1.ipynb`
-程式功能主要是處理文本的Metadata詮釋資料換成為RDF格式，使用以下套件程式:
-- 同上。
+- 上述程式執行影片
+- [![影片標題](https://img.youtube.com/vi/XeaQlD2x_d0/0.jpg)](https://www.youtube.com/watch?v=XeaQlD2x_d0)
 
 ---
 
