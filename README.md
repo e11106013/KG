@@ -84,7 +84,10 @@
 ---
 
 ## 💬 KG 應用程式
-程式功能主要是處理文本的Metadata詮釋資料換成為RDF格式，使用以下套件程式:
+
+### `my_virtdb.tar.gz`
+使用docker-compose 建置triple store ，包含RDF (.ttl) 檔案。
+
 ### `7_SPARQL_QA_JSON.ipynb`
 
 ### `7_sparql_nli_v3.ipynb`
