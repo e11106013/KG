@@ -67,6 +67,9 @@
 - **pandas**：處理與分析 CSV 結構化資料。
 - **tabulate**：格式化並輸出表格數據至終端機。
 
+- 上述程式執行影片
+- [![影片標題](https://img.youtube.com/vi/xmQt_hyY8gw/0.jpg)](https://www.youtube.com/watch?v=xmQt_hyY8gw)
+
 ---
 
 ## 🔗 實體連結模組
@@ -75,6 +78,9 @@
 程式功能主要是將文本中的實體與外部KG(wikidata/dbpidia)進行對其，補充額外的外部資訊至JSON檔案中，使用以下套件程式:
 - **wikipedia / requests**：查詢實體描述與可能對應條目。
 - **sparqlwrapper**：執行 SPARQL 查詢並與 RDF 平台互動。
+
+- 上述程式執行影片
+- [![影片標題](https://img.youtube.com/vi/ti5nHp6jvhM/0.jpg)](https://www.youtube.com/watch?v=ti5nHp6jvhM)
 
 ---
 
