@@ -18,7 +18,7 @@
 - **os**：同上。
 
 - 上述程式執行影片
-[![影片標題](https://img.youtube.com/vi/8AjIgCkaq3g/0.jpg)](https://www.youtube.com/watch?v=8AjIgCkaq3g)
+`[![影片標題](https://img.youtube.com/vi/8AjIgCkaq3g/0.jpg)](https://www.youtube.com/watch?v=8AjIgCkaq3g)`
 
 ### `2_get_metadata_v4.ipynb`
 程式功能主要處理文本中的metadat詮釋資料成為JSON格式，使用以下套件程式:
