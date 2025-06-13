@@ -17,7 +17,7 @@
 - **json**：同上。
 - **os**：同上。
 
-### `2_get_metadata_csv.ipynb`、`2_get_metadata_json.ipynb`
+### `2_get_metadata_v4.ipynb`
 
 - **json**：處理 JSON 檔案的讀取與解析。
 - **pandas**：將處理後的資料轉為 DataFrame，並可儲存為 CSV。
