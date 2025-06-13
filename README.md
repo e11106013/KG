@@ -3,7 +3,7 @@
 
 ## 📥 資料收集與清洗模組
 
-### `1_html2json_v2.ipynb` 與 `1_pdf2json_v2.ipynb`
+### `1_html2json_v2.ipynb`
 
 - **BeautifulSoup（bs4）**：負責解析 HTML 結構，提供節點搜尋與屬性操作等功能。
 - **re**：使用正則表達式清理不必要的空白與特殊符號。
