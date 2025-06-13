@@ -46,15 +46,13 @@
 
 ## ✅ 審閱與修訂模組
 
-### `4_1_human_review_v7.ipynb`
+### `4_human_review.ipynb`
+程式功能是會將NER/RE/GCR結果產生審查報表，使用以下套件程式:
 
 - **os**：列出資料夾中的檔案與組合路徑。
 - **json**：讀取 JSON 檔案並處理字典轉換。
 - **csv**：將資料寫入 CSV。
 - **shutil**：移動已處理檔案至 done/ 資料夾。
-
-### `4_3_review_report_v3.ipynb`
-
 - **pandas**：處理與分析 CSV 結構化資料。
 - **tabulate**：格式化並輸出表格數據至終端機。
 
