@@ -105,7 +105,7 @@
 ### `my_virtdb.tar.gz`
 使用docker-compose 建置triple store ，包含RDF (.ttl) 檔案。
 
-### `7_SPARQL_QA_JSON.ipynb`
+### `7_SPARQL_QA_JSON_v1.ipynb`
 
 ### `7_sparql_nli_v3.ipynb`
 程式功能主要是會以自然語言轉換成Sparql語言與triple store 溝通，返回對應的資料內容，並且提供視覺化界面(cytoscap)，用來檢視檔案的SPO資料結構，使用以下套件程式:
