@@ -110,4 +110,4 @@
 ### `7_sparql_nli_v3.ipynb`
 程式功能主要是會以自然語言轉換成Sparql語言與triple store 溝通，返回對應的資料內容，並且提供視覺化界面(cytoscap)，用來檢視檔案的SPO資料結構，使用以下套件程式:
 - **dash，dash_cytoscape，requests，threading，webbrowser**
-- [![影片標題](https://img.youtube.com/vi/JOf4mG4b7aY/0.jpg)](https://www.youtube.com/watch?v=JOf4mG4b7aY)
+- [![影片標題](https://img.youtube.com/vi/zcjdOQdmt0Y/0.jpg)](https://www.youtube.com/watch?v=zcjdOQdmt0Y)
