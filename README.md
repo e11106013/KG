@@ -28,7 +28,7 @@
 - **re**：透過正則表達式處理與格式化欄位內容。
 
 - 上述程式執行影片
-[![影片標題](https://img.youtube.com/vi/FvUpK4WQx9o/0.jpg)](https://www.youtube.com/watch?v=FvUpK4WQx9o)
+- [![影片標題](https://img.youtube.com/vi/FvUpK4WQx9o/0.jpg)](https://www.youtube.com/watch?v=FvUpK4WQx9o)
 
 ---
 
